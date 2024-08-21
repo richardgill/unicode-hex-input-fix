@@ -1,3 +1,19 @@
+# Notes
+
+I took this and made two edits in ukelele to make £ and € work.
+
+£ is on option + 3 (usually it's shift but this didn't work with moglove)
+€ is on option + 2
+
+# Unicode Hex Input fixed
+
+MacOS's built-in Unicode Hex Input layout has a bug where all characters with 
+a code both starting ending in 0 will not output anything. For example the
+character `à` is code `00E0` and is impossible to type with the built in layout
+(as of Jan. 2023).
+
+Using this keylayout instead fixes the issue. 
+
 # Unicode Hex Input fixed
 
 MacOS's built-in Unicode Hex Input layout has a bug where all characters with 
