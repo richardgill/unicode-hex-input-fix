@@ -1,9 +1,10 @@
 # Notes
 
-I took this and made two edits in ukelele to make £ and € work.
+I took this and made two edits in ukelele to make gbp work.
 
 £ is on option + 3 (usually it's shift but this didn't work with moglove)
-€ is on option + 2
+
+Install: `cp unicode-hex-input-fixed-british.keylayout ~/Library/Keyboard\ Layouts/`
 
 # Unicode Hex Input fixed
 
