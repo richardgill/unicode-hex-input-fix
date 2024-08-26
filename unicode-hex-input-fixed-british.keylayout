@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 396 on 2024-08-24 at 08:58 (GMT+1)-->
-<keyboard group="126" id="-21270" name="Unicode Hex Input - fixed british" maxout="1">
+<!--Last edited by Ukelele version 396 on 2024-08-26 at 18:13 (GMT+1)-->
+<keyboard group="126" id="-12952" name="Unicode Hex Input - fixed british" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="a0" modifiers="28"/>
     </layouts>
@@ -433,6 +433,7 @@
             <key code="26" action="7"/>
             <key code="28" action="8"/>
             <key code="29" action="0"/>
+            <key code="51" output="&#x0008;"/>
             <key code="82" action="0"/>
             <key code="83" action="1"/>
             <key code="84" action="2"/>
@@ -443,6 +444,7 @@
             <key code="89" action="7"/>
             <key code="91" action="8"/>
             <key code="92" action="9"/>
+            <key code="117" output="&#x007F;"/>
             <key code="123" output="&#x001C;"/>
             <key code="124" output="&#x001D;"/>
             <key code="125" output="&#x001F;"/>
