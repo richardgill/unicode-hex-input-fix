@@ -6,6 +6,8 @@ I took this and made two edits in ukelele to make gbp work.
 
 Install: `cp unicode-hex-input-fixed-british.keylayout ~/Library/Keyboard\ Layouts/`
 
+Go to login screen for mac and remove the other input so you're just left with this one.
+
 # Unicode Hex Input fixed
 
 MacOS's built-in Unicode Hex Input layout has a bug where all characters with 
